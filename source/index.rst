@@ -1,0 +1,26 @@
+.. Sistemas de información documentation master file, created by
+   sphinx-quickstart on Mon Jun  3 23:19:52 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Sistemas de información - Docente Carlos O.-WgetDc!
+===================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   acercaDe
+   IntroducciónalosSistemasdeInformación
+   PrincipiosdeDiseño
+   DiseñodeSoluciones
+   SeleccióndeSoluciones
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
