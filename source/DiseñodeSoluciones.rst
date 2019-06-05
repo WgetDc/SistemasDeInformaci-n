@@ -17,7 +17,8 @@ Innovación
 
 La innovación es hoy en día, una necesidad absoluta en las empresas para sobrevivir. Las compañías que no invierten en innovación ponen en riesgo su futuro. “Si no buscan soluciones innovadores a los problemas que emergen en la sociedad o en sus clientes continuamente, su negocio no prosperará, tendrán poca probabilidad de competir y eventualmente será desplazada por otras”. (Oficina Australiana de Innovación).
 
-**Que es innovación**
+**¿Que es innovación?**
+
 
 Existen muchas acepciones de Innovación dependiendo del contexto en que se utilice. Se presentan algunas definiciones:
 
