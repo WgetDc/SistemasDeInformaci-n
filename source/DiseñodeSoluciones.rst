@@ -73,7 +73,7 @@ A pesar de que se reconoce que lo más importante de los benchmarks es que seña
  #. Ejecución: Implementación de los cambios.
  #. Verificación, maduración y continuidad.
 
- **Beneficios potenciales de Benchmarking:**
+**Beneficios potenciales de Benchmarking.**
 
 
 1. Proceso de planificación estratégica: Ayuda a establecer los objetivos de una organización y a definir los procedimientos, las políticas y estrategias que gobernarán la adquisición, uso y disposición de recursos que permitan alcanzar esos objetivos

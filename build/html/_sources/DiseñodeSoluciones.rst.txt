@@ -17,7 +17,9 @@ Innovación
 
 La innovación es hoy en día, una necesidad absoluta en las empresas para sobrevivir. Las compañías que no invierten en innovación ponen en riesgo su futuro. “Si no buscan soluciones innovadores a los problemas que emergen en la sociedad o en sus clientes continuamente, su negocio no prosperará, tendrán poca probabilidad de competir y eventualmente será desplazada por otras”. (Oficina Australiana de Innovación).
 
-**Que es innovación**
+**¿Que es innovación?**
+
+
 Existen muchas acepciones de Innovación dependiendo del contexto en que se utilice. Se presentan algunas definiciones:
 
 * “INNOVAR proviene del latín innovare que significa, acto o efecto de innovar, tornarse nuevo o renovar, introducir al mercado una novedad… INNOVAR también significa, alterar, cambia, mudar modificar transformar, transmutar, variar corregir, rectificar y muchas más acciones que utilizamos para establecer cambios físicos de algo”. Wikipedia. 
@@ -71,8 +73,8 @@ A pesar de que se reconoce que lo más importante de los benchmarks es que seña
  #. Ejecución: Implementación de los cambios.
  #. Verificación, maduración y continuidad.
 
- **Beneficios potenciales de Benchmarking:**
- 
+**Beneficios potenciales de Benchmarking.**
+
 
 1. Proceso de planificación estratégica: Ayuda a establecer los objetivos de una organización y a definir los procedimientos, las políticas y estrategias que gobernarán la adquisición, uso y disposición de recursos que permitan alcanzar esos objetivos
 

@@ -1,10 +1,11 @@
 ¿A quien va dedicada esta documentación?
 ========================================
+A mis alumnos.
 
-Mi nombre es Carlos Orellana, tambien conocido como WgetDc en el mundo TI.
 
-Y que hago ahora?
+
+¿Quien soy?
 -----------------
-Nada
+Mi nombre es Carlos Orellana; WgetDc en el mundo TI.
 
-.. image:: _static/benchmarkingMinimalist.png
+.. image:: _static/yo.jpg
